@@ -1,4 +1,4 @@
-# WindowsServiceLogger
+# Windows Service Logger
 
 A simple Windows service that logs service start, stop, and elapsed events to a log file every 5 seconds. The service creates and appends log entries to a daily log file stored in the "Logs" directory of the application's base directory.
 
